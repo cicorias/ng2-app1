@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['ngapp1.component.css']
 })
 export class Ngapp1AppComponent {
-  title = 'ngapp1 works!';
+  title = 'ngapp1 works yeah  !';
 }
